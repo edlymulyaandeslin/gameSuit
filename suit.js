@@ -1,3 +1,4 @@
+// looping
 var ulang = true;
 while (ulang) {
   // pilihan player
